@@ -1,0 +1,23 @@
+.signWrapper{
+    display: flex;
+    justify-content: center;
+}
+.signCard
+{
+    width: 27vw;
+    min-width: 350px;
+    margin-top:10%;
+}
+.outlined-basic{
+    display:flex;
+    height:auto;
+}
+button{
+    width: 27vw;
+}
+.logo{
+    color: white;
+    width:5vw;
+    margin:5%
+}
+
